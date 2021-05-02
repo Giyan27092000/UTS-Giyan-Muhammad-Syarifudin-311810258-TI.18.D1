@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTSApp</string>
+
+    <string name="nama">Nama : Giyan Muhammad Syarifudin</string>
+    <string name="nim">Nim   : 311810258</string>
+    <string name="kelas">Kelas   : TI.18.D1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
